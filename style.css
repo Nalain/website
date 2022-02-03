@@ -1,0 +1,19 @@
+body
+{
+    background-color: gray;
+
+    /*Fond ecran adaptable*/
+    background-image:url(pictures/landscape.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/*
+footer
+{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+*/
